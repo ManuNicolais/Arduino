@@ -3,4 +3,4 @@
 Cambiando los valores de los potenciometros se pueden conseguir diferentes colores en un Led RGB
 
 # Arduino
-![Proyecto](./Potenciometro RGB/Potenciometro%20RGB.png)
+![Potenciometro RGB](./Potenciometro%20RGB.png)
